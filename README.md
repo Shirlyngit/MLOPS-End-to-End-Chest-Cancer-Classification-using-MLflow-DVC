@@ -1,5 +1,6 @@
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 # MLOps End-to-End Pipeline 🚀
+![Lung Cancer Image](adenocarcinoma-lung.png)
 
 An end-to-end Machine Learning pipeline for **automated classification of Adenocarcinoma**, a common and deadly form of **lung cancer**, using **deep learning (VGG16 + CNN)** integrated with a full **MLOps workflow**.
 
